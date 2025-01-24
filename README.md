@@ -8,10 +8,10 @@
 No causa conflicto porque fue un merge fast forward, no hubieron commits y los cambios al ser de estilo (itálicas y backticks) git no lo considera conflicto para un merge.
 
 - El merge del paso 19, ¿Causó algún conflicto? ¿Por qué?
-
+Si, porque se estaban sobrescribiendo las mismas líneas.
 
 - El merge del paso 21, ¿Causó algún conflicto? ¿Por qué?
-
+No, porque los conflictos se resolvieron en el `merge` de styled.
 
 - ¿Qué comando o comandos utilizaste en el paso 25?
 
