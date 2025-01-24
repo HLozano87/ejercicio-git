@@ -14,7 +14,7 @@ Si, porque se estaban sobrescribiendo las mismas líneas.
 No, porque los conflictos se resolvieron en el `merge` de styled.
 
 - ¿Qué comando o comandos utilizaste en el paso 25?
-
+`git log --graph --oneline` y `git log --graph`: Genera un gráfico representando información de los movimientos del repositorio. Es visualmente más cómodo que si uso `git log --graph`. Depende del contexto se puede usar un comando u otro, aunque este último muestra más información.
 
 - El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?
 
