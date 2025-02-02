@@ -45,7 +45,6 @@
 
     * `git restore --stage y git restore <archivo>`
 
-
 - ¿Qué comando o comandos utilizaste en el paso 29?
 
     * `git branch -D title`
